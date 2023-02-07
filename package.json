@@ -2,8 +2,9 @@
   "name": "notes-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "mocha"
   },
   "keywords": [],
@@ -16,6 +17,7 @@
   },
   "devDependencies": {
     "chai": "^4.3.7",
+    "mocha": "^10.2.0",
     "supertest": "^6.3.3"
   }
 }
