@@ -10,7 +10,7 @@ Simple Node.js application with unit tests to show how to automate tests using H
 git clone https://github.com/pavanbelagatti/notes-app-example.git 
 ```
 ```
-cd notes-app-example
+cd notes-app-cicd
 ```
 ```
 npm install
